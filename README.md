@@ -1,2 +1,0 @@
-# nwallpaper
-androidnwallpapers
